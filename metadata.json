@@ -1,0 +1,5 @@
+{
+  "name": "ProjectScope AI",
+  "description": "Analizador de transcripciones de reuniones que genera automáticamente presupuestos, hitos e historias de usuario utilizando Gemini AI.",
+  "requestFramePermissions": []
+}
